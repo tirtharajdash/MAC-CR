@@ -1,0 +1,43 @@
+C#1: ['Rere', 'Itpr3', 'Gpc1', 'Mst1r', 'Ybx1', 'Thra', 'Rasa3', 'Grk5', 'Arfrp1', 'Esr1', 'Selp', 'Dock6', 'Hip1', 'Ncaph2', 'Pkmyt1', 'Kctd2', 'Tnfrsf8', 'Zer1', 'Dzip1', 'Prm2', 'Klf9', 'Adarb1', 'Entpd4', 'Pik3cd', 'Hs6st1', 'Ccr10', 'Wdtc1', 'Soat2', 'Sphk2', 'Srpk2', 'Foxn3', 'Slc12a4', 'Pdlim4', 'Icosl', 'Gnb1l', 'Cdk10', 'Fgfr1', 'Scamp2', 'Casp2', 'Tom1l2', 'Ube2i', 'Rara', 'Vps45', 'Rap1gap', 'Rnf126', 'Myo9a', 'Rrp12', 'Sardh', 'Tbc1d2b', 'Pde1b', 'Efnb2', 'Nr1d1', 'Stk38', 'Tbc1d9b', 'Slc12a5', 'Etv1', 'Hgf', 'Nadk', 'Mbd2', 'Lgals9', 'Zc3h13', 'Fbxl2', 'Mmp19', 'Tbcd', 'Pax5', 'Dnaja4', 'Arg1', 'Agrp', 'Rarb', 'Cnr2', 'Gfer', 'Med16', 'Arhgef12', 'Pqbp1', 'Arid1a', 'Atp2a1', 'Tbxa2r', 'Sqstm1', 'Fastk', 'Polg', 'Gmds', 'Tubb3', 'Rbm19', 'Rfx2', 'Cd79a', 'Ivd', 'Inpp4a', 'Map2k7', 'Cdkn1c', 'Ctbp2', 'Rprm', 'Ppp2r1a', 'Crip2', 'Lypla2', 'Cln6', 'Smo', 'Aldh6a1', 'Lmna', 'Ehmt2', 'Med24', 'Tnks', 'Padi4', 'Tppp3', 'Pdk2', 'Scara3', 'Rangap1', 'Khk', 'Nfix', 'Slc22a17', 'Pnpla2', 'Obsl1', 'Srpk3', 'Smg6', 'Car5b', 'Klhdc8a', 'Lsm14b', 'Crebbp', 'Mertk', 'Gprc5b', 'Cd22', 'Nudc', 'Cdk2', 'Cenpa', 'Tomm40', 'Tns1', 'Xdh', 'Stk16', 'Fxyd7', 'Slc9a3r2', 'Mospd3', 'Yipf2', 'Aatk', 'Ece1', 'Acads', 'Cald1', 'Siglece', 'S100a13', 'Tef', 'Tubgcp2', 'Dbp', 'H6pd']
+
+C#2: ['Nek7', 'Mrpl44', 'Rb1cc1', 'Dhx29', 'Fli1', 'Man2a1', 'Taf9b', 'Hdac1', 'Kifap3', 'Ahctf1', 'Mettl3', 'Cdk8', 'P4ha1', 'Suclg2', 'Ankrd12', 'Insig1', 'Tlk1', 'Tbl2', 'Thoc2', 'Mbnl2', 'Rab11fip2', 'Cct8', 'Naga', 'Rabep1', 'Mbnl1', 'Chd1', 'Pdia6', 'Pkd2', 'Phtf1', 'Man1a', 'Plekhb2', 'Klc1', 'Herpud1', 'Entpd4', 'Nfil3', 'App', 'Rbm28', 'Cd86', 'Ift52', 'Spop', 'Ints7', 'Zfp318', 'Atg7', 'Srpk2', 'Rcn2', 'Mcl1', 'Lyn', 'Atp6v0a2', 'Pdia4', 'Fgfr1', 'Zc3h15', 'Tm2d1', 'Abce1', 'Cfdp1', 'Wipi1', 'Top1', 'Cox15', 'Lman1', 'Vps45', 'Morf4l1', 'Atp2b1', 'Adcy7', 'Stambp', 'Dkc1', 'Zfand5', 'Ptger4', 'Agpat5', 'Park7', 'Tbce', 'Wdfy3', 'Rbl1', 'Cacybp', 'Sgpl1', 'Anapc13', 'Sgms1', 'Ccng2', 'Snrpa1', 'Cry1', 'Gtf2e1', 'Hsp90aa1', 'Slc5a3', 'Evi2a', 'Rngtt', 'Igf1r', 'Nadk', 'Hspa8', 'Tbc1d9', 'Tug1', 'Qk', 'Mbd2', 'Mex3c', 'Creg1', 'Rcbtb2', 'Klhl2', 'Zc3h13', 'Elmo2', 'Paxip1', 'Letmd1', 'Arhgef12', 'Nptn', 'Apaf1', 'Klhl24', 'Elavl1', 'Metap1', 'Brd1', 'Galnt2', 'Cflar', 'Tes', 'Slc25a16', 'Dctd', 'Sumo1', 'Arid1a', 'Arntl', 'Prep', 'Lars2', 'Recql', 'Wdr48', 'Vrk1', 'Ndufb7', 'Heatr1', 'St13', 'Lsm7', 'Ncbp2', 'Impa1', 'Slfn3', 'Cul2', 'Cnot6', 'Ctr9', 'Spcs3', 'Dnajb4', 'Pcyox1', 'Osbpl11', 'Ctbp2', 'Arid3a', 'Cirbp', 'Acbd3', 'Znhit1', 'Acox3', 'Frmd4b', 'Ppid', 'Idh3a', 'Aldh6a1', 'Derl1', 'Hbp1', 'Abi1', 'Mef2a', 'Psma2', 'Hmgb2', 'Rev1', 'Per2', 'Tardbp', 'Ogt', 'Pter', 'Sptlc2', 'Prpf4b', 'Tmf1', 'Ugdh', 'Pspc1', 'Senp6', 'Spen', 'Sfpq', 'Pam', 'Snx4', 'Fchsd2', 'Rad1', 'Smc2', 'Klf11', 'Sucla2', 'Hspa5', 'Ascc1', 'Klhl7', 'Hsp90b1', 'Hdac4', 'Cct6a', 'Ypel5', 'Ube4b', 'Tor1aip1', 'Crebbp', 'Wwp1', 'Gart', 'Hccs', 'Psmf1', 'Atp6v1g1', 'Tbl1xr1', 'Adam17', 'Rfx5', '1110004F10Rik', 'Exosc8', 'Jun', 'Tlr1', 'Tank', 'Itpr2', 'Anp32e', 'Guf1', 'Ubap2', 'Pnn', 'Rhob', 'Evi5', 'Nfe2l2', 'Sec23b', 'Slc11a2', 'Gtf3c3', 'Arfgef2', 'Smarca2', 'Atf6', 'Ubqln2', 'Rpap3', 'Ddx5', 'Noc3l', 'Kpna4', 'Glg1', 'Sephs1']
+
+C#3: ['Rps15a', 'Mast3', 'Camk1d', 'Stk38', 'Itpr2', 'Senp6', 'Klhdc2', 'Gab2', 'Uap1l1', 'Cdc25b', 'Brd1', 'Slc9a8', 'Ezh1', 'Frmd4a']
+
+C#4: []
+
+C#5: ['Cdk9', 'Top1', 'Atp2b1', 'Vav3', 'Tsc2', 'Ctsc', 'Klhdc2', 'Tmem50b', 'Sema4a', 'Slfn3', 'Ezh1', 'P4ha1', 'Tcf4', 'Ankrd12', 'Sgpl1', 'Stk38', 'Ing3', 'Adam17', 'Gab2', 'Ccng2', 'Csf2ra', 'Thoc2', 'Cirbp', 'Rab11fip2', 'Slc9a8', 'Kmo', 'Tnks', 'Qk', 'Notch1', 'Itpr2', 'Nlrp3', 'Sgsh', 'Cd86', 'Frmd4a', 'Marcks', 'Dnajb1', 'Lyn', 'Tmub2', 'Senp6', 'Uap1l1', 'Brd1', 'Rpl3']
+
+C#6: ['Fuca1', 'Pdk4']
+
+C#7: ['Ap1b1', 'Siglec1', 'Cdc25b', 'Ap2a2']
+
+C#8: ['Phf21a', 'Cd93']
+
+C#9: ['Rims3', 'Robo1', 'Ncoa2', 'Ybx1', 'Hgd']
+
+C#10: ['Bcl2l1', 'Anxa2', 'Pdxk', 'Gmds', 'Lonrf3', 'Emg1', 'Igsf6']
+
+C#11: ['Bcl2a1c', 'Ltbp3', 'Atp1a1', 'Cdk5', 'Acot7', 'Hk2', 'Tubb6', 'Stip1', 'Eno1', 'Kcnn4', 'Slc12a6', 'Galnt6', 'Bcl2a1d', 'Adck2', 'Atp2a3', 'Tubb3', 'Lpl']
+
+C#12: ['Cab39l', 'Ap1s1', 'Tbxa2r', 'Isyna1', 'Svil', 'Pdxk', 'Rap1gap', 'Cox5b', 'Chaf1b', 'Lsm4', 'S100a13', 'Rrp12', 'S100a1']
+
+C#13: ['Ppa1', 'Cd40']
+
+C#14: ['Tcea1', 'Rps15a', 'Kmo', 'Camk1d', 'Tsc2', 'Sgpl1', 'Stk38', 'Senp6', 'Klhdc2', 'Gab2', 'Crtap', 'Brd1', 'Rpl3', 'Slc9a8', 'Ezh1']
+
+----------------------------------------------------------------------------------------------------
+Cluster  1: 141 (/2971)
+Cluster  2: 212 (/2114)
+Cluster  3: 14 (/118)
+Cluster  4: 0 (/11)
+Cluster  5: 42 (/291)
+Cluster  6: 2 (/33)
+Cluster  7: 4 (/30)
+Cluster  8: 2 (/18)
+Cluster  9: 5 (/81)
+Cluster 10: 7 (/64)
+Cluster 11: 17 (/99)
+Cluster 12: 13 (/113)
+Cluster 13: 2 (/71)
+Cluster 14: 15 (/109)
